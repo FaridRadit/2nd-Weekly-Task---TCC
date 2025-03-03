@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Note Web,simple design </h4>
+<h4 align="center">A minimal Note Web,simple design - Farid (123220094) </h4>
 
 
 <p align="center">
